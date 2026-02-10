@@ -3968,6 +3968,26 @@
       <Rating />
       <Image description="Primary Show Card">https://cdn.titantv.com/HKBhDvqFjds5W8RNM2b6iJ4JnAmQdhLqidzJCWaKtgI.png</Image>
     </Show>
+    <Show startTimeUtc="2026-02-10T12:00:00" endTimeUtc="2026-02-10T12:30:00" adjustedstartTime="2026-02-10T06:00:00" adjustedEndTime="2026-02-10T06:30:00" duration="PT30M" eventId="451146933" programId="10122681" parentProgramId="0" newRepeat="N" year="2025" originalAirDate="2025-06-15">
+      <Title lang="eng">Kato Mornings</Title>
+      <ShowType>News</ShowType>
+      <DisplayGenre>News</DisplayGenre>
+      <Category lang="eng" type="A65">News</Category>
+      <Category lang="eng" type="TitanTV">Local Programming</Category>
+      <Category lang="eng" type="TitanTV">Topical</Category>
+      <Rating />
+      <Image description="Primary Show Card">https://cdn.titantv.com/HKBhDvqFjdtb2q3Gzp-l_doLD5I-POfHepIqfLs0eP4.png</Image>
+    </Show>
+    <Show startTimeUtc="2026-02-10T12:30:00" endTimeUtc="2026-02-10T13:00:00" adjustedstartTime="2026-02-10T06:30:00" adjustedEndTime="2026-02-10T07:00:00" duration="PT30M" eventId="451146934" programId="10122681" parentProgramId="0" newRepeat="N" year="2025" originalAirDate="2025-06-15">
+      <Title lang="eng">Kato Mornings</Title>
+      <ShowType>News</ShowType>
+      <DisplayGenre>News</DisplayGenre>
+      <Category lang="eng" type="A65">News</Category>
+      <Category lang="eng" type="TitanTV">Local Programming</Category>
+      <Category lang="eng" type="TitanTV">Topical</Category>
+      <Rating />
+      <Image description="Primary Show Card">https://cdn.titantv.com/HKBhDvqFjdtb2q3Gzp-l_doLD5I-POfHepIqfLs0eP4.png</Image>
+    </Show>
     <Show startTimeUtc="2026-02-10T13:00:00" endTimeUtc="2026-02-10T15:00:00" adjustedstartTime="2026-02-10T07:00:00" adjustedEndTime="2026-02-10T09:00:00" duration="PT2H" eventId="451146923" programId="10495837" parentProgramId="6839869" isHd="true" newRepeat="N" year="2026" originalAirDate="2026-02-09">
       <Title lang="eng">CBS Mornings</Title>
       <Description lang="eng">Eric Church.</Description>
@@ -5253,6 +5273,16 @@
       <Category lang="eng" type="TitanTV">Current Events</Category>
       <Rating />
       <Image description="Primary Show Card">https://cdn.titantv.com/HKBhDvqFjds5W8RNM2b6iKI7e70BnFVVa2PXxXzxI5w.png</Image>
+    </Show>
+    <Show startTimeUtc="2026-02-13T12:00:00" endTimeUtc="2026-02-13T12:30:00" adjustedstartTime="2026-02-13T06:00:00" adjustedEndTime="2026-02-13T06:30:00" duration="PT30M" eventId="451758497" programId="10122681" parentProgramId="0" newRepeat="N" year="2025" originalAirDate="2025-06-15">
+      <Title lang="eng">Kato Mornings</Title>
+      <ShowType>News</ShowType>
+      <DisplayGenre>News</DisplayGenre>
+      <Category lang="eng" type="A65">News</Category>
+      <Category lang="eng" type="TitanTV">Local Programming</Category>
+      <Category lang="eng" type="TitanTV">Topical</Category>
+      <Rating />
+      <Image description="Primary Show Card">https://cdn.titantv.com/HKBhDvqFjdtb2q3Gzp-l_doLD5I-POfHepIqfLs0eP4.png</Image>
     </Show>
     <Show startTimeUtc="2026-02-13T12:30:00" endTimeUtc="2026-02-13T13:00:00" adjustedstartTime="2026-02-13T06:30:00" adjustedEndTime="2026-02-13T07:00:00" duration="PT30M" eventId="451758498" programId="10122681" parentProgramId="0" newRepeat="N" year="2025" originalAirDate="2025-06-15">
       <Title lang="eng">Kato Mornings</Title>
