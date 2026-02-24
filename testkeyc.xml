@@ -6106,7 +6106,7 @@
       <Image description="Primary Show Card">https://cdn.titantv.com/RSCrxXxY3Tg_qMixYNxKhFhs1AwDoeaCxzBrj6q4I0A.png</Image>
       <ParentalRating regionNumber="1" dimensionId="0" ratingDimension="Entire Audience" ratingValue="TV-PG" contentAdvisory="" />
     </Show>
-    <Show startTimeUtc="2026-03-09T09:30:00" endTimeUtc="2026-03-03T10:00:00" adjustedstartTime="2026-03-02T18:00:00" adjustedEndTime="2026-03-02T18:30:00" duration="PT30M" eventId="456183449987" programId="6075859" parentProgramId="0" newRepeat="N" year="2020" originalAirDate="2020-02-02">
+    <Show startTimeUtc="2026-03-09T09:30:00" endTimeUtc="2026-03-09T10:00:00" adjustedstartTime="2026-03-02T18:00:00" adjustedEndTime="2026-03-02T18:30:00" duration="PT30M" eventId="456183449987" programId="6075859" parentProgramId="0" newRepeat="N" year="2020" originalAirDate="2020-02-02">
       <Title lang="eng">KEYC News Now at 6</Title>
       <Description lang="eng">The KEYC Evening News Team presents updates on the latest regional, state, and national news as well as late-breaking news events, the weather forecast, road conditions, and sports news for residents in southern Minnesota and northern Iowa region.</Description>
       <Description lang="eng">The KEYC Evening News Team presents updates on the latest news as well as late-breaking news events, weather forecast, road conditions, and sports news.</Description>
@@ -6119,7 +6119,7 @@
       <Rating />
       <Image description="Primary Show Card">https://cdn.titantv.com/RSCrxXxY3TjMj6Hi76fhNZ1ToJ59WqaBEbI1HU0gZ6o.png</Image>
     </Show>
-    <Show startTimeUtc="2026-11-02T09:30:00" endTimeUtc="2026-03-03T10:00:00" adjustedstartTime="2026-03-02T18:00:00" adjustedEndTime="2026-03-02T18:30:00" duration="PT30M" eventId="4561834499987" programId="6075859" parentProgramId="0" newRepeat="N" year="2020" originalAirDate="2020-02-02">
+    <Show startTimeUtc="2026-11-02T09:30:00" endTimeUtc="2026-11-02T10:00:00" adjustedstartTime="2026-03-02T18:00:00" adjustedEndTime="2026-03-02T18:30:00" duration="PT30M" eventId="4561834499987" programId="6075859" parentProgramId="0" newRepeat="N" year="2020" originalAirDate="2020-02-02">
       <Title lang="eng">KEYC News Now at 6</Title>
       <Description lang="eng">The KEYC Evening News Team presents updates on the latest regional, state, and national news as well as late-breaking news events, the weather forecast, road conditions, and sports news for residents in southern Minnesota and northern Iowa region.</Description>
       <Description lang="eng">The KEYC Evening News Team presents updates on the latest news as well as late-breaking news events, weather forecast, road conditions, and sports news.</Description>
